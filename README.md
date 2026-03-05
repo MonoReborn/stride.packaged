@@ -1,3 +1,5 @@
+<h>This is a fork that uses normal packaging instead of relying on Nuget for production and is easier to maintain<h>
+
 <p>
 <a href="https://www.stride3d.net/">
 <picture>
